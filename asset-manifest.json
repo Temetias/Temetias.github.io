@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.65a4a46b.css",
-    "main.js": "/static/js/main.38b5663b.js",
+    "main.css": "/static/css/main.54ab084b.css",
+    "main.js": "/static/js/main.f0c298cd.js",
     "static/js/787.46b14444.chunk.js": "/static/js/787.46b14444.chunk.js",
     "static/media/PST_Wicked.png": "/static/media/PST_Wicked.9ba7cd2efa48ecb7e953.png",
     "static/media/lfm.png": "/static/media/lfm.268b93feb38f29828aec.png",
@@ -11,12 +11,12 @@
     "static/media/aor.png": "/static/media/aor.e68d88a38d1aee2f8374.png",
     "static/media/porsche.png": "/static/media/porsche.9d7c2b49bcdc4afa68e2.png",
     "index.html": "/index.html",
-    "main.65a4a46b.css.map": "/static/css/main.65a4a46b.css.map",
-    "main.38b5663b.js.map": "/static/js/main.38b5663b.js.map",
+    "main.54ab084b.css.map": "/static/css/main.54ab084b.css.map",
+    "main.f0c298cd.js.map": "/static/js/main.f0c298cd.js.map",
     "787.46b14444.chunk.js.map": "/static/js/787.46b14444.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.65a4a46b.css",
-    "static/js/main.38b5663b.js"
+    "static/css/main.54ab084b.css",
+    "static/js/main.f0c298cd.js"
   ]
 }
